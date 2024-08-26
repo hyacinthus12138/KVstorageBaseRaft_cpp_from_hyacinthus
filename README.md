@@ -1,0 +1,2 @@
+# KVstorageBaseRaft_cpp_from_hyacinthus
+使用raft写一个kv存储
